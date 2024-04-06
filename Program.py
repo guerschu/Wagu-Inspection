@@ -1,38 +1,56 @@
 import numpy as np
-import pandas
+import pandas as pd
 import torch
 import torch.nn as nn
 from torch.optim import SGD
 import torch.nn.functional as F
 from torch.utils.data import Dataset, DataLoader
-import torchvision
-import numpy as np
 from torchvision import transforms
 from PIL import Image
-import os
 
-data = pandas.read_csv('Data.csv')
+
+data = pd.read_csv('Data.csv')
 
 RibeyeMeasurements = data["Ribeye"]
 fatThickness = data.FatThickness
 
-x = torch.load('converted_images.pt')
-y = torch.load('converted_images.pt')
+# Load the file
+loaded_data = torch.load('converted_images.pt')
 
-class CTDataset(Dataset):
-    def __init__(self, filepath):
-        self.x, self.y = torch.load(filepath)
-        for i in range(len(self.x)):  # Iterate over the indices of the tensor x
-            print(self.x)
-            self.x[i] += self.x[i] / 255.  # Divide each element by 255
-        self.y = F.one_hot(self.y, num_classes=10).to(torch.float32)  # Convert y to one-hot and float32
-    def __len__(self):
-        return self.x.shape[0]
-    def __getitem__(self, ix):
-        return self.x[ix], self.y[ix]
+# Check the type and structure of the loaded data
+print("Data type:", type(loaded_data))
 
+if isinstance(loaded_data, tuple) and len(loaded_data) == 2:
+    x, y = loaded_data  # Unpack the tuple into x and y
+    print("x type:", type(x))
+    print("y type:", type(y))
+    
+    # Further inspect the contents of x and y
+    if all(isinstance(item, torch.Tensor) for item in x) and all(isinstance(item, torch.Tensor) for item in y):
+        # If x and y contain tensors, print their shapes
+        for idx, tensor in enumerate(x):
+            print(f"x[{idx}] shape:", tensor.shape)
+        for idx, tensor in enumerate(y):
+            print(f"y[{idx}] shape:", tensor.shape)
+        
+        # Define CustomDataset class
+        class CustomDataset(Dataset):
+            def __init__(self, x, y):
+                self.x = x
+                self.y = y
 
+            def __len__(self):
+                return len(self.x)
 
-train_ds = CTDataset('converted_images.pt')
+            def __getitem__(self, idx):
+                return self.x[idx], self.y[idx]
 
-test_ds = CTDataset('TestingImages.pt')
+        # Create custom datasets for training and testing
+        train_dataset = CustomDataset(x, y)
+        
+    else:
+        print("x and y contain non-tensor items")
+else:
+    print("Invalid data structure")
+
+# Define your neural network class and other training/test logic here
