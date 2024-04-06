@@ -20,11 +20,11 @@ filenames = Data["Filename"].tolist()  # Convert column to a list
 print(type(filenames[0]))
 labels = Data["Grade Category"].tolist()  # Convert column to a list
 print(type(labels[0]))
-one_hot_encoded = pd.get_dummies(Data['Grade Category'], prefix='Category')
+one_hot_encoded = pd.get_dummies(Data['Score'], prefix='Category')
 #labels_new = F.one_hot(torch.tensor(labels), num_classes=10)
 
 tensor = torch.tensor(one_hot_encoded.values)
-labels = tensor.long()
+labels = tensor.float()
 print(labels.shape)
 
 
@@ -60,7 +60,7 @@ transform = transforms.Compose([
     transforms.ToTensor()
 ])
 
-batch_size = 10
+batch_size = 5
 learning_rate = 0.00001
 num_epochs = 4
 
@@ -104,20 +104,20 @@ def train_model(dl, f, n_epochs=20):
         for i, (x, y) in enumerate(dl):
             # Update the weights of the network
             opt.zero_grad() 
-            print(y.shape)
-            print(f(x).shape)
-            loss_value = L(f(x), y) 
+            for i in range(len(x)):
+            
+                loss_value = L(f(x[i]) , y[i]) 
             loss_value.backward() 
             opt.step() 
             # Store training data
             epochs.append(epoch+i/N)
             losses.append(loss_value.item())
     return np.array(epochs), np.array(losses)
-
  
 
 
 epoch_data, loss_data = train_model(train_dl, f)
+
 
 plt.plot(epoch_data, loss_data)
 plt.xlabel('Epoch Number')
