@@ -1,0 +1,1403 @@
+Filename,Carcass_ID,Score,Grade Category
+00000001-1.tif,1,450.0,Standard
+00000002-1.tif,2,526.7,Select
+00000003-1.tif,3,320.0,Select
+00000004-1.tif,4,453.3,Select
+00000005-1.tif,5,566.7,Select
+00000006-1.tif,6,406.7,Select
+00000007-1.tif,7,370.0,Select
+00000008-1.tif,8,383.3,Select
+00000009-1.tif,9,393.3,Select
+00000010-1.tif,10,440.0,Select
+00000011-1.tif,11,486.7,Select
+00000012-1.tif,12,460.0,Select
+00000013-1.tif,13,560.0,Select
+00000014-1.tif,14,356.7,Select
+00000015-1.tif,15,410.0,Select
+00000016-1.tif,16,476.7,Select
+00000017-1.tif,17,453.3,Select
+00000018-1.tif,18,463.3,Select
+00000019-1.tif,19,423.3,Select
+00000020-1.tif,20,360.0,Select
+00000021-1.tif,21,393.3,Select
+00000022-1.tif,22,350.0,Select
+00000023-1.tif,23,580.0,Select
+00000024-1.tif,24,366.7,Select
+00000025-1.tif,25,576.7,Select
+00000026-1.tif,26,423.3,Select
+00000027-1.tif,27,493.3,Select
+00000028-1.tif,28,313.3,Select
+00000029-1.tif,29,310.0,Select
+00000030-1.tif,30,483.3,Select
+00000031-1.tif,31,430.0,Select
+00000032-1.tif,32,480.0,Select
+00000033-1.tif,33,333.3,Select
+00000034-1.tif,34,330.0,Select
+00000035-1.tif,35,333.3,Select
+00000036-1.tif,36,376.7,Select
+00000037-1.tif,37,426.7,Select
+00000038-1.tif,38,450.0,Select
+00000039-1.tif,39,416.7,Select
+00000040-1.tif,40,566.7,Select
+00000041-1.tif,41,380.0,Select
+00000042-1.tif,42,430.0,Select
+00000043-1.tif,43,456.7,Select
+00000044-1.tif,44,480.0,Select
+00000045-1.tif,45,413.3,Select
+00000046-1.tif,46,380.0,Select
+00000047-1.tif,47,423.3,Select
+00000048-1.tif,48,563.3,Select
+00000049-1.tif,49,443.3,Select
+00000050-1.tif,50,440.0,Select
+00000051-2.tif,51,460.0,Select
+00000052-2.tif,52,410.0,Select
+00000053-2.tif,53,433.3,Select
+00000054-2.tif,54,376.7,Select
+00000055-2.tif,55,370.0,Select
+00000056-2.tif,56,296.7,Select
+00000057-2.tif,57,366.7,Select
+00000058-2.tif,58,486.7,Select
+00000059-2.tif,59,523.3,Select
+00000060-2.tif,60,440.0,Select
+00000061-2.tif,61,350.0,Select
+00000062-2.tif,62,556.7,Select
+00000063-2.tif,63,353.3,Select
+00000064-2.tif,64,350.0,Select
+00000065-2.tif,65,313.3,Select
+00000066-2.tif,66,363.3,Select
+00000067-2.tif,67,466.7,Select
+00000068-2.tif,68,310.0,Select
+00000069-2.tif,69,410.0,Select
+00000070-2.tif,70,406.7,Select
+00000071-2.tif,71,470.0,Select
+00000072-2.tif,72,376.7,Select
+00000073-2.tif,73,510.0,Select
+00000074-2.tif,74,433.3,Select
+00000075-2.tif,75,483.3,Select
+00000076-2.tif,76,310.0,Select
+00000077-2.tif,77,423.3,Select
+00000078-2.tif,78,416.7,Select
+00000079-2.tif,79,376.7,Select
+00000080-2.tif,80,400.0,Select
+00000081-2.tif,81,406.7,Select
+00000082-2.tif,82,376.7,Select
+00000083-2.tif,83,403.3,Select
+00000084-2.tif,84,516.7,Select
+00000085-2.tif,85,310.0,Select
+00000086-2.tif,86,323.3,Select
+00000087-2.tif,87,316.7,Select
+00000088-2.tif,88,400.0,Select
+00000089-2.tif,89,326.7,Select
+00000090-2.tif,90,420.0,Select
+00000091-2.tif,91,406.7,Select
+00000092-2.tif,92,616.7,Select
+00000093-2.tif,93,430.0,Select
+00000094-2.tif,94,393.3,Select
+00000095-2.tif,95,353.3,Select
+00000096-2.tif,96,356.7,Select
+00000097-2.tif,97,340.0,Select
+00000098-2.tif,98,443.3,Select
+00000099-2.tif,99,416.7,Select
+00000100-2.tif,100,456.7,Select
+00000101-1.tif,101,480.0,Select
+00000102-1.tif,102,650.0,Select
+00000103-1.tif,103,350.0,Select
+00000104-1.tif,104,866.7,Select
+00000105-1.tif,105,636.7,Select
+00000106-1.tif,106,363.3,Select
+00000107-1.tif,107,406.7,Select
+00000108-1.tif,108,436.7,Select
+00000109-1.tif,109,376.7,Select
+00000110-1.tif,110,400.0,Select
+00000111-1.tif,111,463.3,Select
+00000112-1.tif,112,320.0,Select
+00000113-1.tif,113,440.0,Select
+00000114-1.tif,114,306.7,Select
+00000115-1.tif,115,323.3,Select
+00000116-1.tif,116,413.3,Select
+00000117-1.tif,117,470.0,Select
+00000118-1.tif,118,393.3,Select
+00000119-1.tif,119,313.3,Select
+00000120-1.tif,120,343.3,Select
+00000121-1.tif,121,483.3,Select
+00000122-1.tif,122,656.7,Select
+00000123-1.tif,123,400.0,Select
+00000124-1.tif,124,386.7,Select
+00000125-1.tif,125,450.0,Select
+00000126-1.tif,126,326.7,Select
+00000127-1.tif,127,330.0,Select
+00000128-1.tif,128,436.7,Select
+00000129-1.tif,129,653.3,Select
+00000130-1.tif,130,393.3,Select
+00000131-1.tif,131,413.3,Select
+00000132-1.tif,132,343.3,Select
+00000133-1.tif,133,380.0,Select
+00000134-1.tif,134,546.7,Select
+00000135-1.tif,135,336.7,Select
+00000136-1.tif,136,443.3,Select
+00000137-1.tif,137,376.7,Select
+00000138-1.tif,138,503.3,Select
+00000139-1.tif,139,426.7,Select
+00000140-1.tif,140,360.0,Select
+00000141-1.tif,141,430.0,Select
+00000142-1.tif,142,350.0,Select
+00000143-1.tif,143,380.0,Select
+00000144-1.tif,144,426.7,Select
+00000145-1.tif,145,386.7,Select
+00000146-1.tif,146,526.7,Select
+00000147-1.tif,147,506.7,Select
+00000148-1.tif,148,386.7,Select
+00000149-1.tif,149,363.3,Select
+00000150-1.tif,150,363.3,Select
+00000151-2.tif,151,426.7,Select
+00000152-2.tif,152,453.3,Select
+00000153-2.tif,153,440.0,Select
+00000154-2.tif,154,413.3,Select
+00000155-2.tif,155,370.0,Select
+00000156-2.tif,156,360.0,Select
+00000157-2.tif,157,466.7,Select
+00000158-2.tif,158,396.7,Select
+00000159-2.tif,159,453.3,Select
+00000160-2.tif,160,423.3,Select
+00000161-2.tif,161,456.7,Select
+00000162-2.tif,162,453.3,Select
+00000163-2.tif,163,396.7,Select
+00000164-2.tif,164,523.3,Select
+00000165-2.tif,165,553.3,Select
+00000166-2.tif,166,553.3,Select
+00000167-2.tif,167,616.7,Select
+00000168-2.tif,168,486.7,Select
+00000169-2.tif,169,320.0,Select
+00000170-2.tif,170,333.3,Select
+00000172-2.tif,172,510.0,Select
+00000173-2.tif,173,583.3,Select
+00000174-2.tif,174,353.3,Select
+00000175-2.tif,175,440.0,Select
+00000176-2.tif,176,410.0,Select
+00000177-2.tif,177,343.3,Select
+00000178-2.tif,178,390.0,Low Choice
+00000179-2.tif,179,360.0,Low Choice
+00000180-2.tif,180,430.0,Low Choice
+00000181-2.tif,181,373.3,Low Choice
+00000182-2.tif,182,346.7,Low Choice
+00000183-2.tif,183,513.3,Low Choice
+00000184-2.tif,184,430.0,Low Choice
+00000185-2.tif,185,420.0,Low Choice
+00000186-2.tif,186,430.0,Low Choice
+00000187-2.tif,187,313.3,Low Choice
+00000188-2.tif,188,360.0,Low Choice
+00000189-2.tif,189,316.7,Low Choice
+00000190-2.tif,190,446.7,Low Choice
+00000191-2.tif,191,410.0,Low Choice
+00000192-2.tif,192,430.0,Low Choice
+00000193-2.tif,193,393.3,Low Choice
+00000194-2.tif,194,376.7,Low Choice
+00000195-2.tif,195,433.3,Low Choice
+00000196-2.tif,196,470.0,Low Choice
+00000197-2.tif,197,433.3,Low Choice
+00000198-2.tif,198,483.3,Low Choice
+00000199-2.tif,199,356.7,Low Choice
+00000200-2.tif,200,443.3,Low Choice
+00000201-1.tif,201,350.0,Low Choice
+00000202-1.tif,202,383.3,Low Choice
+00000203-1.tif,203,400.0,Low Choice
+00000204-1.tif,204,460.0,Low Choice
+00000205-1.tif,205,363.3,Low Choice
+00000206-1.tif,206,370.0,Low Choice
+00000207-1.tif,207,476.7,Low Choice
+00000208-1.tif,208,526.7,Low Choice
+00000209-1.tif,209,346.7,Low Choice
+00000210-1.tif,210,330.0,Low Choice
+00000211-1.tif,211,536.7,Low Choice
+00000212-1.tif,212,466.7,Low Choice
+00000213-1.tif,213,516.7,Low Choice
+00000214-1.tif,214,440.0,Low Choice
+00000215-1.tif,215,360.0,Low Choice
+00000216-1.tif,216,416.7,Low Choice
+00000217-1.tif,217,386.7,Low Choice
+00000218-1.tif,218,380.0,Low Choice
+00000219-1.tif,219,453.3,Low Choice
+00000220-1.tif,220,456.7,Low Choice
+00000221-1.tif,221,500.0,Low Choice
+00000222-1.tif,222,486.7,Low Choice
+00000223-1.tif,223,306.7,Low Choice
+00000224-1.tif,224,470.0,Low Choice
+00000225-1.tif,225,456.7,Low Choice
+00000226-1.tif,226,443.3,Low Choice
+00000227-1.tif,227,443.3,Low Choice
+00000228-1.tif,228,490.0,Low Choice
+00000229-1.tif,229,556.7,Low Choice
+00000230-1.tif,230,426.7,Low Choice
+00000231-1.tif,231,620.0,Low Choice
+00000232-1.tif,232,333.3,Low Choice
+00000233-1.tif,233,333.3,Low Choice
+00000234-1.tif,234,440.0,Low Choice
+00000235-1.tif,235,370.0,Low Choice
+00000236-1.tif,236,320.0,Low Choice
+00000237-1.tif,237,466.7,Low Choice
+00000238-1.tif,238,550.0,Low Choice
+00000239-1.tif,239,406.7,Low Choice
+00000240-1.tif,240,323.3,Low Choice
+00000241-1.tif,241,313.3,Low Choice
+00000242-1.tif,242,423.3,Low Choice
+00000243-1.tif,243,433.3,Low Choice
+00000244-1.tif,244,426.7,Low Choice
+00000245-1.tif,245,363.3,Low Choice
+00000246-1.tif,246,430.0,Low Choice
+00000247-1.tif,247,330.0,Low Choice
+00000248-1.tif,248,413.3,Low Choice
+00000249-1.tif,249,403.3,Low Choice
+00000250-1.tif,250,530.0,Low Choice
+00000251-2.tif,251,470.0,Low Choice
+00000252-2.tif,252,396.7,Low Choice
+00000253-2.tif,253,336.7,Low Choice
+00000254-2.tif,254,520.0,Low Choice
+00000255-2.tif,255,313.3,Low Choice
+00000256-2.tif,256,370.0,Low Choice
+00000257-2.tif,257,370.0,Low Choice
+00000258-2.tif,258,360.0,Low Choice
+00000259-2.tif,259,406.7,Low Choice
+00000260-2.tif,260,540.0,Low Choice
+00000261-2.tif,261,353.3,Low Choice
+00000262-2.tif,262,406.7,Low Choice
+00000263-2.tif,263,360.0,Low Choice
+00000264-2.tif,264,460.0,Low Choice
+00000265-2.tif,265,456.7,Low Choice
+00000266-2.tif,266,346.7,Low Choice
+00000267-2.tif,267,560.0,Low Choice
+00000268-2.tif,268,550.0,Low Choice
+00000269-2.tif,269,393.3,Low Choice
+00000270-2.tif,270,376.7,Low Choice
+00000271-2.tif,271,526.7,Low Choice
+00000272-2.tif,272,473.3,Low Choice
+00000273-2.tif,273,433.3,Low Choice
+00000274-2.tif,274,440.0,Low Choice
+00000275-2.tif,275,350.0,Low Choice
+00000276-2.tif,276,350.0,Low Choice
+00000277-2.tif,277,646.7,Low Choice
+00000278-2.tif,278,416.7,Low Choice
+00000279-2.tif,279,323.3,Low Choice
+00000280-2.tif,280,460.0,Low Choice
+00000281-2.tif,281,433.3,Low Choice
+00000282-2.tif,282,460.0,Low Choice
+00000283-2.tif,283,316.7,Low Choice
+00000284-2.tif,284,340.0,Low Choice
+00000285-2.tif,285,416.7,Low Choice
+00000286-2.tif,286,386.7,Low Choice
+00000287-2.tif,287,423.3,Low Choice
+00000288-2.tif,288,330.0,Low Choice
+00000289-2.tif,289,480.0,Low Choice
+00000290-2.tif,290,420.0,Low Choice
+00000291-2.tif,291,443.3,Low Choice
+00000292-2.tif,292,450.0,Low Choice
+00000293-2.tif,293,410.0,Low Choice
+00000294-2.tif,294,353.3,Low Choice
+00000295-2.tif,295,490.0,Low Choice
+00000296-2.tif,296,606.7,Low Choice
+00000297-2.tif,297,513.3,Low Choice
+00000298-2.tif,298,370.0,Low Choice
+00000299-2.tif,299,526.7,Low Choice
+00000300-2.tif,300,406.7,Low Choice
+00007001-2.tif,7001,460.0,Low Choice
+00007002-2.tif,7002,666.7,Low Choice
+00007003-2.tif,7003,453.3,Low Choice
+00007004-2.tif,7004,466.7,Low Choice
+00007007-2.tif,7007,463.3,Low Choice
+00007008-2.tif,7008,466.7,Low Choice
+00007009-2.tif,7009,546.7,Low Choice
+00007010-2.tif,7010,623.3,Low Choice
+00007011-2.tif,7011,580.0,Low Choice
+00007012-2.tif,7012,716.7,Low Choice
+00007014-2.tif,7014,480.0,Low Choice
+00007015-2.tif,7015,606.7,Low Choice
+00007016-2.tif,7016,473.3,Low Choice
+00007017-2.tif,7017,730.0,Low Choice
+00007019-2.tif,7019,710.0,Low Choice
+00007020-2.tif,7020,520.0,Low Choice
+00007022-2.tif,7022,546.7,Low Choice
+00007023-2.tif,7023,456.7,Low Choice
+00007024-2.tif,7024,730.0,Low Choice
+00007025-2.tif,7025,583.3,Low Choice
+00007026-2.tif,7026,480.0,Low Choice
+00007027-2.tif,7027,466.7,Low Choice
+00007028-2.tif,7028,806.7,Low Choice
+00007029-2.tif,7029,776.7,Low Choice
+00007030-2.tif,7030,443.3,Low Choice
+00007031-2.tif,7031,526.7,Low Choice
+00007032-2.tif,7032,726.7,Low Choice
+00007033-2.tif,7033,486.7,Low Choice
+00007034-2.tif,7034,783.3,Low Choice
+00007035-2.tif,7035,560.0,Low Choice
+00007036-2.tif,7036,723.3,Low Choice
+00007038-2.tif,7038,493.3,Low Choice
+00007039-2.tif,7039,540.0,Low Choice
+00007040-2.tif,7040,703.3,Low Choice
+00007041-2.tif,7041,440.0,Low Choice
+00007042-2.tif,7042,610.0,Low Choice
+00007043-2.tif,7043,456.7,Low Choice
+00007044-2.tif,7044,543.3,Low Choice
+00007046-2.tif,7046,526.7,Low Choice
+00007048-2.tif,7048,460.0,Low Choice
+00007049-2.tif,7049,553.3,Low Choice
+00007050-2.tif,7050,463.3,Low Choice
+00007051-2.tif,7051,613.3,Low Choice
+00007053-2.tif,7053,560.0,Low Choice
+00007055-2.tif,7055,453.3,Low Choice
+00007056-2.tif,7056,486.7,Low Choice
+00007057-2.tif,7057,466.7,Low Choice
+00007058-2.tif,7058,580.0,Low Choice
+00007059-2.tif,7059,480.0,Low Choice
+00007060-2.tif,7060,593.3,Low Choice
+00007061-2.tif,7061,440.0,Low Choice
+00007062-2.tif,7062,493.3,Low Choice
+00007063-2.tif,7063,466.7,Low Choice
+00007064-2.tif,7064,433.3,Low Choice
+00007065-2.tif,7065,640.0,Low Choice
+00007066-2.tif,7066,656.7,Low Choice
+00007067-2.tif,7067,476.7,Low Choice
+00007068-2.tif,7068,480.0,Low Choice
+00007070-2.tif,7070,473.3,Low Choice
+00007071-2.tif,7071,423.3,Low Choice
+00007072-2.tif,7072,373.3,Low Choice
+00007073-2.tif,7073,663.3,Low Choice
+00007074-2.tif,7074,453.3,Low Choice
+00007075-2.tif,7075,486.7,Low Choice
+00007076-2.tif,7076,576.7,Low Choice
+00007077-2.tif,7077,700.0,Low Choice
+00007078-2.tif,7078,490.0,Low Choice
+00007079-2.tif,7079,663.3,Low Choice
+00007080-2.tif,7080,696.7,Low Choice
+00007081-2.tif,7081,550.0,Low Choice
+00007082-2.tif,7082,583.3,Low Choice
+00007083-2.tif,7083,453.3,Low Choice
+00007084-2.tif,7084,556.7,Low Choice
+00007085-2.tif,7085,526.7,Low Choice
+00007086-2.tif,7086,463.3,Low Choice
+00007087-2.tif,7087,470.0,Low Choice
+00007088-2.tif,7088,546.7,Low Choice
+00007089-2.tif,7089,463.3,Low Choice
+00007090-2.tif,7090,523.3,Low Choice
+00007091-2.tif,7091,676.7,Low Choice
+00007092-2.tif,7092,476.7,Low Choice
+00007093-2.tif,7093,556.7,Low Choice
+00007094-2.tif,7094,670.0,Low Choice
+00007094-1.tif,7094,670.0,Low Choice
+00007095-2.tif,7095,523.3,Low Choice
+00007095-1.tif,7095,523.3,Low Choice
+00007099-2.tif,7099,736.7,Low Choice
+00007100-2.tif,7100,500.0,Low Choice
+00007101-1.tif,7101,360.0,Low Choice
+00007102-1.tif,7102,440.0,Low Choice
+00007104-1.tif,7104,440.0,Low Choice
+00007105-1.tif,7105,566.7,Low Choice
+00007106-1.tif,7106,413.3,Low Choice
+00007107-1.tif,7107,386.7,Low Choice
+00007108-1.tif,7108,460.0,Low Choice
+00007110-1.tif,7110,473.3,Low Choice
+00007111-1.tif,7111,363.3,Low Choice
+00007113-1.tif,7113,480.0,Low Choice
+00007114-1.tif,7114,453.3,Low Choice
+00007115-1.tif,7115,456.7,Low Choice
+00007116-1.tif,7116,446.7,Low Choice
+00007117-1.tif,7117,483.3,Low Choice
+00007118-1.tif,7118,490.0,Low Choice
+00007119-1.tif,7119,470.0,Low Choice
+00007120-1.tif,7120,493.3,Low Choice
+00007122-1.tif,7122,453.3,Low Choice
+00007123-1.tif,7123,493.3,Low Choice
+00007124-1.tif,7124,450.0,Low Choice
+00007125-1.tif,7125,526.7,Low Choice
+00007126-1.tif,7126,476.7,Low Choice
+00007127-1.tif,7127,576.7,Low Choice
+00007128-1.tif,7128,403.3,Low Choice
+00007129-1.tif,7129,420.0,Low Choice
+00007130-1.tif,7130,633.3,Low Choice
+00007131-1.tif,7131,436.7,Low Choice
+00007132-1.tif,7132,660.0,Low Choice
+00007133-1.tif,7133,466.7,Low Choice
+00007134-1.tif,7134,450.0,Low Choice
+00007135-1.tif,7135,516.7,Low Choice
+00007136-1.tif,7136,456.7,Low Choice
+00007137-1.tif,7137,643.3,Low Choice
+00007138-1.tif,7138,370.0,Low Choice
+00007139-1.tif,7139,466.7,Low Choice
+00007140-1.tif,7140,620.0,Low Choice
+00007141-1.tif,7141,430.0,Low Choice
+00007142-1.tif,7142,400.0,Low Choice
+00007143-1.tif,7143,466.7,Low Choice
+00007144-1.tif,7144,443.3,Low Choice
+00007145-1.tif,7145,693.3,Low Choice
+00007147-1.tif,7147,423.3,Low Choice
+00007148-1.tif,7148,570.0,Low Choice
+00007149-1.tif,7149,493.3,Low Choice
+00007150-1.tif,7150,516.7,Low Choice
+00007151-1.tif,7151,546.7,Low Choice
+00007152-1.tif,7152,480.0,Low Choice
+00007153-1.tif,7153,403.3,Low Choice
+00007154-1.tif,7154,503.3,Low Choice
+00007155-1.tif,7155,443.3,Low Choice
+00007156-1.tif,7156,496.7,Low Choice
+00007157-1.tif,7157,453.3,Low Choice
+00007158-1.tif,7158,546.7,Low Choice
+00007159-1.tif,7159,713.3,Low Choice
+00007160-1.tif,7160,380.0,Low Choice
+00007161-1.tif,7161,733.3,Low Choice
+00007162-1.tif,7162,483.3,Low Choice
+00007164-1.tif,7164,530.0,Low Choice
+00007165-1.tif,7165,470.0,Low Choice
+00007166-1.tif,7166,423.3,Low Choice
+00007167-1.tif,7167,646.7,Low Choice
+00007168-1.tif,7168,430.0,Low Choice
+00007169-1.tif,7169,446.7,Low Choice
+00007170-1.tif,7170,560.0,Low Choice
+00007171-1.tif,7171,390.0,Low Choice
+00007172-1.tif,7172,546.7,Low Choice
+00007173-1.tif,7173,416.7,Low Choice
+00007174-1.tif,7174,443.3,Low Choice
+00007175-1.tif,7175,523.3,Low Choice
+00007176-1.tif,7176,493.3,Low Choice
+00007177-1.tif,7177,680.0,Low Choice
+00007178-1.tif,7178,403.3,Low Choice
+00007179-1.tif,7179,580.0,Low Choice
+00007180-1.tif,7180,383.3,Low Choice
+00007181-1.tif,7181,386.7,Low Choice
+00007182-1.tif,7182,756.7,Low Choice
+00007183-1.tif,7183,536.7,Low Choice
+00007185-1.tif,7185,443.3,Low Choice
+00007186-1.tif,7186,386.7,Low Choice
+00007187-1.tif,7187,566.7,Low Choice
+00007188-1.tif,7188,480.0,Low Choice
+00007190-1.tif,7190,530.0,Low Choice
+00007191-1.tif,7191,486.7,Low Choice
+00007192-1.tif,7192,770.0,Low Choice
+00007193-1.tif,7193,616.7,Low Choice
+00007194-1.tif,7194,463.3,Low Choice
+00007195-1.tif,7195,613.3,Low Choice
+00007196-1.tif,7196,470.0,Low Choice
+00007198-1.tif,7198,566.7,Low Choice
+00007199-1.tif,7199,473.3,Low Choice
+00007200-1.tif,7200,453.3,Low Choice
+00007201-2.tif,7201,446.7,Low Choice
+00007202-2.tif,7202,460.0,Low Choice
+00007203-2.tif,7203,493.3,Low Choice
+00007204-2.tif,7204,370.0,Low Choice
+00007205-2.tif,7205,456.7,Low Choice
+00007206-2.tif,7206,460.0,Low Choice
+00007207-2.tif,7207,670.0,Low Choice
+00007208-2.tif,7208,450.0,Low Choice
+00007209-2.tif,7209,440.0,Low Choice
+00007210-2.tif,7210,430.0,Low Choice
+00007211-2.tif,7211,536.7,Low Choice
+00007212-2.tif,7212,356.7,Low Choice
+00007213-2.tif,7213,683.3,Low Choice
+00007214-2.tif,7214,543.3,Low Choice
+00007215-2.tif,7215,693.3,Low Choice
+00007216-2.tif,7216,646.7,Low Choice
+00007217-2.tif,7217,676.7,Low Choice
+00007218-2.tif,7218,540.0,Low Choice
+00007219-2.tif,7219,643.3,Low Choice
+00007220-2.tif,7220,576.7,Low Choice
+00007221-2.tif,7221,476.7,Low Choice
+00007222-2.tif,7222,393.3,Low Choice
+00007223-2.tif,7223,480.0,Low Choice
+00007224-2.tif,7224,466.7,Low Choice
+00007225-2.tif,7225,563.3,Low Choice
+00007226-2.tif,7226,430.0,Low Choice
+00007227-2.tif,7227,490.0,Low Choice
+00007228-2.tif,7228,663.3,Low Choice
+00007229-2.tif,7229,450.0,Low Choice
+00007230-2.tif,7230,470.0,Low Choice
+00007231-2.tif,7231,570.0,Low Choice
+00007232-2.tif,7232,476.7,Low Choice
+00007234-2.tif,7234,470.0,Low Choice
+00007235-2.tif,7235,483.3,Low Choice
+00007236-2.tif,7236,420.0,Low Choice
+00007237-2.tif,7237,483.3,Low Choice
+00007238-2.tif,7238,706.7,Low Choice
+00007239-2.tif,7239,490.0,Low Choice
+00007240-2.tif,7240,480.0,Low Choice
+00007241-2.tif,7241,566.7,Low Choice
+00007242-2.tif,7242,683.3,Low Choice
+00007243-2.tif,7243,560.0,Low Choice
+00007244-2.tif,7244,570.0,Low Choice
+00007245-2.tif,7245,473.3,Low Choice
+00007246-2.tif,7246,450.0,Low Choice
+00007247-2.tif,7247,383.3,Low Choice
+00007248-2.tif,7248,546.7,Low Choice
+00007249-2.tif,7249,536.7,Low Choice
+00007250-2.tif,7250,570.0,Low Choice
+00007251-2.tif,7251,440.0,Low Choice
+00007252-2.tif,7252,396.7,Low Choice
+00007253-2.tif,7253,463.3,Low Choice
+00007254-2.tif,7254,543.3,Low Choice
+00007255-2.tif,7255,403.3,Low Choice
+00007256-2.tif,7256,473.3,Low Choice
+00007257-2.tif,7257,516.7,Low Choice
+00007258-2.tif,7258,543.3,Low Choice
+00007260-2.tif,7260,463.3,Low Choice
+00007261-2.tif,7261,493.3,Low Choice
+00007266-2.tif,7266,773.3,Low Choice
+00007267-2.tif,7267,430.0,Low Choice
+00007268-2.tif,7268,356.7,Low Choice
+00007269-2.tif,7269,576.7,Low Choice
+00007270-2.tif,7270,496.7,Low Choice
+00007271-2.tif,7271,470.0,Low Choice
+00007272-2.tif,7272,613.3,Low Choice
+00007273-2.tif,7273,566.7,Low Choice
+00007274-2.tif,7274,633.3,Low Choice
+00007275-2.tif,7275,520.0,Low Choice
+00007276-2.tif,7276,476.7,Low Choice
+00007277-2.tif,7277,466.7,Low Choice
+00007278-2.tif,7278,546.7,Low Choice
+00007279-2.tif,7279,620.0,Low Choice
+00007280-2.tif,7280,603.3,Low Choice
+00007281-2.tif,7281,570.0,Low Choice
+00007283-2.tif,7283,466.7,Low Choice
+00007285-2.tif,7285,553.3,Low Choice
+00007286-2.tif,7286,560.0,Low Choice
+00007287-2.tif,7287,473.3,Low Choice
+00007288-2.tif,7288,580.0,Low Choice
+00007289-2.tif,7289,566.7,Low Choice
+00007290-2.tif,7290,446.7,Low Choice
+00007291-2.tif,7291,553.3,Low Choice
+00007292-2.tif,7292,460.0,Low Choice
+00007293-2.tif,7293,576.7,Low Choice
+00007294-2.tif,7294,443.3,Low Choice
+00007295-2.tif,7295,420.0,Low Choice
+00007297-2.tif,7297,456.7,Low Choice
+00007298-2.tif,7298,543.3,Low Choice
+00007299-2.tif,7299,740.0,Low Choice
+00007300-2.tif,7300,766.7,Low Choice
+00007301-1.tif,7301,616.7,Low Choice
+00007302-1.tif,7302,500.0,Low Choice
+00007303-1.tif,7303,446.7,Low Choice
+00007304-1.tif,7304,463.3,Low Choice
+00007305-1.tif,7305,586.7,Low Choice
+00007306-1.tif,7306,570.0,Low Choice
+00007307-1.tif,7307,476.7,Low Choice
+00007308-1.tif,7308,566.7,Low Choice
+00007309-1.tif,7309,480.0,Low Choice
+00007310-1.tif,7310,446.7,Low Choice
+00007311-1.tif,7311,493.3,Low Choice
+00007312-1.tif,7312,533.3,Low Choice
+00007313-1.tif,7313,466.7,Low Choice
+00007314-1.tif,7314,733.3,Low Choice
+00007315-1.tif,7315,506.7,Low Choice
+00007318-1.tif,7318,526.7,Low Choice
+00007319-1.tif,7319,483.3,Low Choice
+00007320-1.tif,7320,473.3,Low Choice
+00007321-1.tif,7321,410.0,Low Choice
+00007322-1.tif,7322,430.0,Low Choice
+00007323-1.tif,7323,510.0,Low Choice
+00007325-1.tif,7325,533.3,Low Choice
+00007326-1.tif,7326,463.3,Low Choice
+00007327-1.tif,7327,443.3,Low Choice
+00007328-1.tif,7328,510.0,Low Choice
+00007329-1.tif,7329,483.3,Low Choice
+00007330-1.tif,7330,433.3,Low Choice
+00007331-1.tif,7331,743.3,Low Choice
+00007332-1.tif,7332,763.3,Low Choice
+00007333-1.tif,7333,470.0,Low Choice
+00007334-1.tif,7334,390.0,Low Choice
+00007335-1.tif,7335,580.0,Low Choice
+00007336-1.tif,7336,686.7,Low Choice
+00007337-1.tif,7337,730.0,Low Choice
+00007338-1.tif,7338,470.0,Low Choice
+00007339-1.tif,7339,583.3,Low Choice
+00007340-1.tif,7340,460.0,Low Choice
+00007341-1.tif,7341,510.0,Low Choice
+00007342-1.tif,7342,423.3,Low Choice
+00007343-1.tif,7343,746.7,Low Choice
+00007344-1.tif,7344,526.7,Low Choice
+00007346-1.tif,7346,470.0,Low Choice
+00007347-1.tif,7347,543.3,Low Choice
+00007348-1.tif,7348,480.0,Low Choice
+00007349-1.tif,7349,463.3,Low Choice
+00007350-1.tif,7350,516.7,Low Choice
+00007352-1.tif,7352,513.3,Low Choice
+00007353-1.tif,7353,563.3,Low Choice
+00007354-1.tif,7354,676.7,Low Choice
+00007355-1.tif,7355,473.3,Low Choice
+00007357-1.tif,7357,466.7,Low Choice
+00007358-1.tif,7358,520.0,Low Choice
+00007359-1.tif,7359,446.7,Low Choice
+00007361-1.tif,7361,526.7,Low Choice
+00007362-1.tif,7362,573.3,Low Choice
+00007363-1.tif,7363,473.3,Low Choice
+00007364-1.tif,7364,536.7,Low Choice
+00007365-1.tif,7365,523.3,Low Choice
+00007366-1.tif,7366,360.0,Low Choice
+00007367-1.tif,7367,550.0,Low Choice
+00007368-1.tif,7368,596.7,Low Choice
+00007369-1.tif,7369,410.0,Low Choice
+00007370-1.tif,7370,703.3,Low Choice
+00007371-1.tif,7371,446.7,Low Choice
+00007372-1.tif,7372,623.3,Low Choice
+00007373-1.tif,7373,500.0,Low Choice
+00007374-1.tif,7374,486.7,Low Choice
+00007375-1.tif,7375,556.7,Low Choice
+00007376-1.tif,7376,623.3,Low Choice
+00007377-1.tif,7377,650.0,Low Choice
+00007378-1.tif,7378,483.3,Low Choice
+00007379-1.tif,7379,466.7,Low Choice
+00007380-1.tif,7380,546.7,Low Choice
+00007381-1.tif,7381,393.3,Low Choice
+00007382-1.tif,7382,693.3,Low Choice
+00007383-1.tif,7383,626.7,Low Choice
+00007384-1.tif,7384,476.7,Low Choice
+00007386-1.tif,7386,483.3,Low Choice
+00007387-1.tif,7387,650.0,Low Choice
+00007388-1.tif,7388,543.3,Low Choice
+00007389-1.tif,7389,526.7,Low Choice
+00007390-1.tif,7390,416.7,Low Choice
+00007392-1.tif,7392,503.3,Low Choice
+00007394-1.tif,7394,440.0,Low Choice
+00007396-1.tif,7396,483.3,Low Choice
+00007397-1.tif,7397,420.0,Low Choice
+00007398-1.tif,7398,513.3,Low Choice
+00007399-1.tif,7399,446.7,Low Choice
+00007400-1.tif,7400,486.7,Low Choice
+00007401-2.tif,7401,566.7,Low Choice
+00007402-2.tif,7402,416.7,Low Choice
+00007404-2.tif,7404,463.3,Low Choice
+00007405-2.tif,7405,456.7,Low Choice
+00007406-2.tif,7406,470.0,Low Choice
+00007407-2.tif,7407,536.7,Low Choice
+00007408-2.tif,7408,613.3,Low Choice
+00007410-2.tif,7410,533.3,Low Choice
+00007411-2.tif,7411,516.7,Low Choice
+00007412-2.tif,7412,483.3,Low Choice
+00007413-2.tif,7413,570.0,Low Choice
+00007414-2.tif,7414,616.7,Low Choice
+00007415-2.tif,7415,490.0,Low Choice
+00007416-2.tif,7416,550.0,Low Choice
+00007417-2.tif,7417,763.3,Low Choice
+00007418-2.tif,7418,523.3,Low Choice
+00007419-2.tif,7419,570.0,Low Choice
+00007420-2.tif,7420,593.3,Low Choice
+00007421-2.tif,7421,520.0,Low Choice
+00007422-2.tif,7422,483.3,Low Choice
+00007423-2.tif,7423,783.3,Low Choice
+00007424-2.tif,7424,520.0,Low Choice
+00007425-2.tif,7425,463.3,Low Choice
+00007426-2.tif,7426,610.0,Low Choice
+00007427-2.tif,7427,460.0,Low Choice
+00007428-2.tif,7428,553.3,Low Choice
+00007429-2.tif,7429,553.3,Low Choice
+00007430-2.tif,7430,393.3,Low Choice
+00007431-2.tif,7431,356.7,Low Choice
+00007432-2.tif,7432,476.7,Low Choice
+00007433-2.tif,7433,460.0,Low Choice
+00007434-2.tif,7434,546.7,Low Choice
+00007435-2.tif,7435,656.7,Low Choice
+00007436-2.tif,7436,430.0,Low Choice
+00007437-2.tif,7437,476.7,Low Choice
+00007439-2.tif,7439,466.7,Low Choice
+00007440-2.tif,7440,426.7,Low Choice
+00007442-2.tif,7442,560.0,Low Choice
+00007443-2.tif,7443,480.0,Low Choice
+00007444-2.tif,7444,543.3,Low Choice
+00007445-2.tif,7445,396.7,Low Choice
+00007446-2.tif,7446,560.0,Low Choice
+00007447-2.tif,7447,430.0,Low Choice
+00007448-2.tif,7448,350.0,Low Choice
+00007449-2.tif,7449,556.7,Low Choice
+00007450-2.tif,7450,403.3,Low Choice
+00007451-2.tif,7451,526.7,Low Choice
+00007452-2.tif,7452,523.3,Low Choice
+00007453-2.tif,7453,443.3,Low Choice
+00007454-2.tif,7454,446.7,Low Choice
+00007455-2.tif,7455,530.0,Low Choice
+00007456-2.tif,7456,576.7,Low Choice
+00007457-2.tif,7457,693.3,Low Choice
+00007458-2.tif,7458,586.7,Low Choice
+00007459-2.tif,7459,583.3,Low Choice
+00007460-2.tif,7460,560.0,Low Choice
+00007461-2.tif,7461,530.0,Low Choice
+00007462-2.tif,7462,650.0,Low Choice
+00007463-2.tif,7463,463.3,Low Choice
+00007464-2.tif,7464,460.0,Low Choice
+00007465-2.tif,7465,396.7,Low Choice
+00007466-2.tif,7466,453.3,Low Choice
+00007467-2.tif,7467,460.0,Low Choice
+00007468-2.tif,7468,676.7,Low Choice
+00007469-2.tif,7469,476.7,Low Choice
+00007471-2.tif,7471,370.0,Low Choice
+00007472-2.tif,7472,640.0,Low Choice
+00007473-2.tif,7473,393.3,Low Choice
+00007474-2.tif,7474,380.0,Low Choice
+00007475-2.tif,7475,626.7,Low Choice
+00007476-2.tif,7476,463.3,Low Choice
+00007477-2.tif,7477,633.3,Low Choice
+00007478-2.tif,7478,450.0,Low Choice
+00007479-2.tif,7479,483.3,Low Choice
+00007480-2.tif,7480,520.0,Low Choice
+00007482-2.tif,7482,540.0,Low Choice
+00007483-2.tif,7483,583.3,Low Choice
+00007484-2.tif,7484,393.3,Low Choice
+00007486-2.tif,7486,566.7,Low Choice
+00007487-2.tif,7487,643.3,Low Choice
+00007488-2.tif,7488,373.3,Low Choice
+00007489-2.tif,7489,480.0,Low Choice
+00007490-2.tif,7490,420.0,Low Choice
+00007492-2.tif,7492,716.7,Low Choice
+00007493-2.tif,7493,463.3,Low Choice
+00007494-2.tif,7494,570.0,Low Choice
+00007495-2.tif,7495,563.3,Low Choice
+00007496-2.tif,7496,463.3,Low Choice
+00007497-2.tif,7497,566.7,Low Choice
+00007499-2.tif,7499,580.0,Low Choice
+00007500-2.tif,7500,406.7,Low Choice
+00007501-1.tif,7501,576.7,Low Choice
+00007502-1.tif,7502,733.3,Low Choice
+00007503-1.tif,7503,436.7,Low Choice
+00007504-1.tif,7504,436.7,Low Choice
+00007505-1.tif,7505,560.0,Low Choice
+00007507-1.tif,7507,453.3,Low Choice
+00007508-1.tif,7508,486.7,Low Choice
+00007509-1.tif,7509,406.7,Low Choice
+00007510-1.tif,7510,540.0,Low Choice
+00007511-1.tif,7511,383.3,Low Choice
+00007512-1.tif,7512,566.7,Low Choice
+00007514-1.tif,7514,633.3,Low Choice
+00007515-1.tif,7515,456.7,Low Choice
+00007517-1.tif,7517,486.7,Low Choice
+00007518-1.tif,7518,470.0,Low Choice
+00007519-1.tif,7519,513.3,Low Choice
+00007520-1.tif,7520,550.0,Low Choice
+00007521-1.tif,7521,570.0,Low Choice
+00007522-1.tif,7522,573.3,Low Choice
+00007523-1.tif,7523,460.0,Low Choice
+00007524-1.tif,7524,453.3,Low Choice
+00007525-1.tif,7525,446.7,Low Choice
+00007526-1.tif,7526,530.0,Low Choice
+00007527-1.tif,7527,623.3,Low Choice
+00007528-1.tif,7528,580.0,Low Choice
+00007529-1.tif,7529,630.0,Low Choice
+00007530-1.tif,7530,566.7,Low Choice
+00007532-1.tif,7532,456.7,Low Choice
+00007533-1.tif,7533,480.0,Low Choice
+00007534-1.tif,7534,476.7,Low Choice
+00007535-1.tif,7535,466.7,Low Choice
+00007536-1.tif,7536,396.7,Low Choice
+00007537-1.tif,7537,556.7,Low Choice
+00007538-1.tif,7538,636.7,Low Choice
+00007540-1.tif,7540,490.0,Low Choice
+00007541-1.tif,7541,536.7,Upper 2/3 Choice
+00007542-1.tif,7542,450.0,Upper 2/3 Choice
+00007543-1.tif,7543,463.3,Upper 2/3 Choice
+00007544-1.tif,7544,426.7,Upper 2/3 Choice
+00007546-1.tif,7546,490.0,Upper 2/3 Choice
+00007547-1.tif,7547,516.7,Upper 2/3 Choice
+00007548-1.tif,7548,736.7,Upper 2/3 Choice
+00007549-1.tif,7549,526.7,Upper 2/3 Choice
+00007550-1.tif,7550,566.7,Upper 2/3 Choice
+00007551-1.tif,7551,670.0,Upper 2/3 Choice
+00007552-1.tif,7552,436.7,Upper 2/3 Choice
+00007553-1.tif,7553,476.7,Upper 2/3 Choice
+00007554-1.tif,7554,443.3,Upper 2/3 Choice
+00007555-1.tif,7555,583.3,Upper 2/3 Choice
+00007556-1.tif,7556,770.0,Upper 2/3 Choice
+00007557-1.tif,7557,443.3,Upper 2/3 Choice
+00007558-1.tif,7558,480.0,Upper 2/3 Choice
+00007559-1.tif,7559,496.7,Upper 2/3 Choice
+00007560-1.tif,7560,476.7,Upper 2/3 Choice
+00007561-1.tif,7561,540.0,Upper 2/3 Choice
+00007562-1.tif,7562,380.0,Upper 2/3 Choice
+00007563-1.tif,7563,483.3,Upper 2/3 Choice
+00007564-1.tif,7564,516.7,Upper 2/3 Choice
+00007565-1.tif,7565,470.0,Upper 2/3 Choice
+00007566-1.tif,7566,483.3,Upper 2/3 Choice
+00007567-1.tif,7567,450.0,Upper 2/3 Choice
+00007568-1.tif,7568,700.0,Upper 2/3 Choice
+00007569-1.tif,7569,446.7,Upper 2/3 Choice
+00007570-1.tif,7570,553.3,Upper 2/3 Choice
+00007571-1.tif,7571,563.3,Upper 2/3 Choice
+00007572-1.tif,7572,456.7,Upper 2/3 Choice
+00007573-1.tif,7573,463.3,Upper 2/3 Choice
+00007574-1.tif,7574,713.3,Upper 2/3 Choice
+00007575-1.tif,7575,493.3,Upper 2/3 Choice
+00007576-1.tif,7576,486.7,Upper 2/3 Choice
+00007577-1.tif,7577,636.7,Upper 2/3 Choice
+00007578-1.tif,7578,636.7,Upper 2/3 Choice
+00007579-1.tif,7579,440.0,Upper 2/3 Choice
+00007580-1.tif,7580,446.7,Upper 2/3 Choice
+00007581-1.tif,7581,456.7,Upper 2/3 Choice
+00007583-1.tif,7583,643.3,Upper 2/3 Choice
+00007584-1.tif,7584,566.7,Upper 2/3 Choice
+00007585-1.tif,7585,436.7,Upper 2/3 Choice
+00007586-1.tif,7586,406.7,Upper 2/3 Choice
+00007587-1.tif,7587,453.3,Upper 2/3 Choice
+00007588-1.tif,7588,573.3,Upper 2/3 Choice
+00007589-1.tif,7589,460.0,Upper 2/3 Choice
+00007590-1.tif,7590,453.3,Upper 2/3 Choice
+00007591-1.tif,7591,526.7,Upper 2/3 Choice
+00007592-1.tif,7592,466.7,Upper 2/3 Choice
+00007593-1.tif,7593,713.3,Upper 2/3 Choice
+00007594-1.tif,7594,450.0,Upper 2/3 Choice
+00007595-1.tif,7595,556.7,Upper 2/3 Choice
+00007596-1.tif,7596,553.3,Upper 2/3 Choice
+00007597-1.tif,7597,463.3,Upper 2/3 Choice
+00007598-1.tif,7598,686.7,Upper 2/3 Choice
+00007599-1.tif,7599,713.3,Upper 2/3 Choice
+00007600-1.tif,7600,616.7,Upper 2/3 Choice
+00007601-2.tif,7601,633.3,Upper 2/3 Choice
+00007602-2.tif,7602,433.3,Upper 2/3 Choice
+00007603-2.tif,7603,546.7,Upper 2/3 Choice
+00007605-2.tif,7605,463.3,Upper 2/3 Choice
+00007606-2.tif,7606,540.0,Upper 2/3 Choice
+00007607-2.tif,7607,533.3,Upper 2/3 Choice
+00007608-2.tif,7608,503.3,Upper 2/3 Choice
+00007609-2.tif,7609,410.0,Upper 2/3 Choice
+00007610-2.tif,7610,530.0,Upper 2/3 Choice
+00007611-2.tif,7611,460.0,Upper 2/3 Choice
+00007612-2.tif,7612,533.3,Upper 2/3 Choice
+00007613-2.tif,7613,500.0,Upper 2/3 Choice
+00007614-2.tif,7614,456.7,Upper 2/3 Choice
+00007615-2.tif,7615,523.3,Upper 2/3 Choice
+00007616-2.tif,7616,573.3,Upper 2/3 Choice
+00007617-2.tif,7617,496.7,Upper 2/3 Choice
+00007618-2.tif,7618,543.3,Upper 2/3 Choice
+00007619-2.tif,7619,546.7,Upper 2/3 Choice
+00007620-2.tif,7620,466.7,Upper 2/3 Choice
+00007621-2.tif,7621,360.0,Upper 2/3 Choice
+00007622-2.tif,7622,466.7,Upper 2/3 Choice
+00007623-2.tif,7623,423.3,Upper 2/3 Choice
+00007624-2.tif,7624,513.3,Upper 2/3 Choice
+00007625-2.tif,7625,460.0,Upper 2/3 Choice
+00007626-2.tif,7626,400.0,Upper 2/3 Choice
+00007630-2.tif,7630,433.3,Upper 2/3 Choice
+00007631-2.tif,7631,460.0,Upper 2/3 Choice
+00007633-2.tif,7633,496.7,Upper 2/3 Choice
+00007634-2.tif,7634,456.7,Upper 2/3 Choice
+00007636-2.tif,7636,533.3,Upper 2/3 Choice
+00007637-2.tif,7637,570.0,Upper 2/3 Choice
+00007638-2.tif,7638,516.7,Upper 2/3 Choice
+00007639-2.tif,7639,416.7,Upper 2/3 Choice
+00007640-2.tif,7640,606.7,Upper 2/3 Choice
+00007641-2.tif,7641,460.0,Upper 2/3 Choice
+00007642-1.tif,7642,470.0,Upper 2/3 Choice
+00007643-2.tif,7643,533.3,Upper 2/3 Choice
+00007644-2.tif,7644,483.3,Upper 2/3 Choice
+00007645-1.tif,7645,446.7,Upper 2/3 Choice
+00007645-2.tif,7645,446.7,Upper 2/3 Choice
+00007646-2.tif,7646,466.7,Upper 2/3 Choice
+00007647-2.tif,7647,533.3,Upper 2/3 Choice
+00007648-2.tif,7648,673.3,Upper 2/3 Choice
+00007649-2.tif,7649,463.3,Upper 2/3 Choice
+00007651-2.tif,7651,480.0,Upper 2/3 Choice
+00007652-2.tif,7652,466.7,Upper 2/3 Choice
+00007653-2.tif,7653,603.3,Upper 2/3 Choice
+00007654-2.tif,7654,376.7,Upper 2/3 Choice
+00007655-2.tif,7655,563.3,Upper 2/3 Choice
+00007656-2.tif,7656,460.0,Upper 2/3 Choice
+00007657-2.tif,7657,566.7,Upper 2/3 Choice
+00007658-2.tif,7658,380.0,Upper 2/3 Choice
+00007659-2.tif,7659,573.3,Upper 2/3 Choice
+00007660-2.tif,7660,476.7,Upper 2/3 Choice
+00007661-2.tif,7661,516.7,Upper 2/3 Choice
+00007662-2.tif,7662,613.3,Upper 2/3 Choice
+00007663-2.tif,7663,636.7,Upper 2/3 Choice
+00007664-2.tif,7664,556.7,Upper 2/3 Choice
+00007665-2.tif,7665,440.0,Upper 2/3 Choice
+00007666-2.tif,7666,676.7,Upper 2/3 Choice
+00007667-2.tif,7667,453.3,Upper 2/3 Choice
+00007668-2.tif,7668,470.0,Upper 2/3 Choice
+00007669-2.tif,7669,576.7,Upper 2/3 Choice
+00007670-2.tif,7670,383.3,Upper 2/3 Choice
+00007671-2.tif,7671,403.3,Upper 2/3 Choice
+00007672-2.tif,7672,373.3,Upper 2/3 Choice
+00007673-2.tif,7673,456.7,Upper 2/3 Choice
+00007674-2.tif,7674,470.0,Upper 2/3 Choice
+00007675-2.tif,7675,530.0,Upper 2/3 Choice
+00007676-2.tif,7676,480.0,Upper 2/3 Choice
+00007677-2.tif,7677,473.3,Upper 2/3 Choice
+00007678-2.tif,7678,393.3,Upper 2/3 Choice
+00007679-2.tif,7679,433.3,Upper 2/3 Choice
+00007680-2.tif,7680,403.3,Upper 2/3 Choice
+00007681-2.tif,7681,360.0,Upper 2/3 Choice
+00007682-2.tif,7682,510.0,Upper 2/3 Choice
+00007683-2.tif,7683,503.3,Upper 2/3 Choice
+00007684-2.tif,7684,426.7,Upper 2/3 Choice
+00007685-2.tif,7685,446.7,Upper 2/3 Choice
+00007686-2.tif,7686,380.0,Upper 2/3 Choice
+00007687-2.tif,7687,453.3,Upper 2/3 Choice
+00007688-2.tif,7688,453.3,Upper 2/3 Choice
+00007689-2.tif,7689,476.7,Upper 2/3 Choice
+00007690-2.tif,7690,476.7,Upper 2/3 Choice
+00007691-2.tif,7691,446.7,Upper 2/3 Choice
+00007692-2.tif,7692,456.7,Upper 2/3 Choice
+00007693-2.tif,7693,453.3,Upper 2/3 Choice
+00007694-2.tif,7694,430.0,Upper 2/3 Choice
+00007695-2.tif,7695,436.7,Upper 2/3 Choice
+00007696-2.tif,7696,440.0,Upper 2/3 Choice
+00007697-2.tif,7697,443.3,Upper 2/3 Choice
+00007699-2.tif,7699,413.3,Upper 2/3 Choice
+00007700-2.tif,7700,340.0,Upper 2/3 Choice
+00007701-1.tif,7701,433.3,Upper 2/3 Choice
+00007703-1.tif,7703,470.0,Upper 2/3 Choice
+00007704-1.tif,7704,336.7,Upper 2/3 Choice
+00007705-1.tif,7705,400.0,Upper 2/3 Choice
+00007706-1.tif,7706,450.0,Upper 2/3 Choice
+00007708-1.tif,7708,480.0,Upper 2/3 Choice
+00007709-1.tif,7709,476.7,Upper 2/3 Choice
+00007710-1.tif,7710,453.3,Upper 2/3 Choice
+00007711-1.tif,7711,480.0,Upper 2/3 Choice
+00007712-1.tif,7712,496.7,Upper 2/3 Choice
+00007713-1.tif,7713,416.7,Upper 2/3 Choice
+00007714-1.tif,7714,440.0,Upper 2/3 Choice
+00007715-1.tif,7715,416.7,Upper 2/3 Choice
+00007716-1.tif,7716,456.7,Upper 2/3 Choice
+00007717-1.tif,7717,443.3,Upper 2/3 Choice
+00007718-1.tif,7718,496.7,Upper 2/3 Choice
+00007719-1.tif,7719,523.3,Upper 2/3 Choice
+00007720-1.tif,7720,470.0,Upper 2/3 Choice
+00007721-1.tif,7721,440.0,Upper 2/3 Choice
+00007723-1.tif,7723,423.3,Upper 2/3 Choice
+00007724-1.tif,7724,433.3,Upper 2/3 Choice
+00007725-1.tif,7725,476.7,Upper 2/3 Choice
+00007726-1.tif,7726,390.0,Upper 2/3 Choice
+00007727-1.tif,7727,360.0,Upper 2/3 Choice
+00007728-1.tif,7728,423.3,Upper 2/3 Choice
+00007729-1.tif,7729,373.3,Upper 2/3 Choice
+00007730-1.tif,7730,446.7,Upper 2/3 Choice
+00007731-1.tif,7731,556.7,Upper 2/3 Choice
+00007732-1.tif,7732,613.3,Upper 2/3 Choice
+00007733-1.tif,7733,480.0,Upper 2/3 Choice
+00007735-1.tif,7735,473.3,Upper 2/3 Choice
+00007736-1.tif,7736,496.7,Upper 2/3 Choice
+00007737-1.tif,7737,476.7,Upper 2/3 Choice
+00007738-1.tif,7738,486.7,Upper 2/3 Choice
+00007739-1.tif,7739,363.3,Upper 2/3 Choice
+00007740-1.tif,7740,460.0,Upper 2/3 Choice
+00007741-1.tif,7741,526.7,Upper 2/3 Choice
+00007742-1.tif,7742,463.3,Upper 2/3 Choice
+00007743-1.tif,7743,543.3,Upper 2/3 Choice
+00007744-1.tif,7744,610.0,Upper 2/3 Choice
+00007745-1.tif,7745,676.7,Upper 2/3 Choice
+00007746-1.tif,7746,456.7,Upper 2/3 Choice
+00007747-1.tif,7747,473.3,Upper 2/3 Choice
+00007748-1.tif,7748,486.7,Upper 2/3 Choice
+00007749-1.tif,7749,553.3,Upper 2/3 Choice
+00007750-1.tif,7750,570.0,Upper 2/3 Choice
+00007751-1.tif,7751,446.7,Upper 2/3 Choice
+00007752-1.tif,7752,620.0,Upper 2/3 Choice
+00007753-1.tif,7753,466.7,Upper 2/3 Choice
+00007754-1.tif,7754,630.0,Upper 2/3 Choice
+00007755-1.tif,7755,653.3,Upper 2/3 Choice
+00007756-1.tif,7756,450.0,Upper 2/3 Choice
+00007757-1.tif,7757,580.0,Upper 2/3 Choice
+00007758-1.tif,7758,473.3,Upper 2/3 Choice
+00007759-1.tif,7759,596.7,Upper 2/3 Choice
+00007762-1.tif,7762,473.3,Upper 2/3 Choice
+00007763-1.tif,7763,636.7,Upper 2/3 Choice
+00007764-1.tif,7764,683.3,Upper 2/3 Choice
+00007765-1.tif,7765,650.0,Upper 2/3 Choice
+00007766-1.tif,7766,446.7,Upper 2/3 Choice
+00007767-1.tif,7767,460.0,Upper 2/3 Choice
+00007768-1.tif,7768,780.0,Upper 2/3 Choice
+00007769-1.tif,7769,450.0,Upper 2/3 Choice
+00007771-1.tif,7771,583.3,Upper 2/3 Choice
+00007772-1.tif,7772,683.3,Upper 2/3 Choice
+00007773-1.tif,7773,466.7,Upper 2/3 Choice
+00007774-1.tif,7774,713.3,Upper 2/3 Choice
+00007775-1.tif,7775,676.7,Upper 2/3 Choice
+00007776-1.tif,7776,666.7,Upper 2/3 Choice
+00007777-1.tif,7777,716.7,Upper 2/3 Choice
+00007778-1.tif,7778,540.0,Upper 2/3 Choice
+00007779-1.tif,7779,543.3,Upper 2/3 Choice
+00007780-1.tif,7780,606.7,Upper 2/3 Choice
+00007781-1.tif,7781,550.0,Upper 2/3 Choice
+00007782-1.tif,7782,653.3,Upper 2/3 Choice
+00007783-1.tif,7783,713.3,Upper 2/3 Choice
+00007784-1.tif,7784,583.3,Upper 2/3 Choice
+00007785-1.tif,7785,650.0,Upper 2/3 Choice
+00007786-1.tif,7786,853.3,Upper 2/3 Choice
+00007788-1.tif,7788,523.3,Upper 2/3 Choice
+00007789-1.tif,7789,570.0,Upper 2/3 Choice
+00007790-1.tif,7790,460.0,Upper 2/3 Choice
+00007792-1.tif,7792,663.3,Upper 2/3 Choice
+00007793-1.tif,7793,750.0,Upper 2/3 Choice
+00007795-1.tif,7795,470.0,Upper 2/3 Choice
+00007797-1.tif,7797,663.3,Upper 2/3 Choice
+00007798-1.tif,7798,506.7,Upper 2/3 Choice
+00007799-1.tif,7799,720.0,Upper 2/3 Choice
+00007800-1.tif,7800,793.3,Upper 2/3 Choice
+00007801-2.tif,7801,693.3,Upper 2/3 Choice
+00007802-2.tif,7802,556.7,Upper 2/3 Choice
+00007803-2.tif,7803,543.3,Upper 2/3 Choice
+00007804-2.tif,7804,543.3,Upper 2/3 Choice
+00007805-2.tif,7805,436.7,Upper 2/3 Choice
+00007806-2.tif,7806,546.7,Upper 2/3 Choice
+00007807-2.tif,7807,613.3,Upper 2/3 Choice
+00007809-2.tif,7809,560.0,Upper 2/3 Choice
+00007810-2.tif,7810,690.0,Upper 2/3 Choice
+00007812-2.tif,7812,456.7,Upper 2/3 Choice
+00007814-2.tif,7814,453.3,Upper 2/3 Choice
+00007815-2.tif,7815,623.3,Upper 2/3 Choice
+00007816-2.tif,7816,480.0,Upper 2/3 Choice
+00007817-2.tif,7817,746.7,Upper 2/3 Choice
+00007818-2.tif,7818,470.0,Upper 2/3 Choice
+00007819-2.tif,7819,723.3,Upper 2/3 Choice
+00007820-2.tif,7820,563.3,Upper 2/3 Choice
+00007821-2.tif,7821,516.7,Upper 2/3 Choice
+00007822-2.tif,7822,473.3,Upper 2/3 Choice
+00007824-2.tif,7824,483.3,Upper 2/3 Choice
+00007825-2.tif,7825,450.0,Upper 2/3 Choice
+00007826-2.tif,7826,533.3,Upper 2/3 Choice
+00007827-2.tif,7827,663.3,Upper 2/3 Choice
+00007828-2.tif,7828,696.7,Upper 2/3 Choice
+00007829-2.tif,7829,673.3,Upper 2/3 Choice
+00007830-2.tif,7830,533.3,Upper 2/3 Choice
+00007831-2.tif,7831,600.0,Upper 2/3 Choice
+00007832-2.tif,7832,476.7,Upper 2/3 Choice
+00007833-2.tif,7833,466.7,Upper 2/3 Choice
+00007834-2.tif,7834,590.0,Upper 2/3 Choice
+00007835-2.tif,7835,586.7,Upper 2/3 Choice
+00007836-2.tif,7836,490.0,Upper 2/3 Choice
+00007837-2.tif,7837,533.3,Upper 2/3 Choice
+00007838-2.tif,7838,456.7,Upper 2/3 Choice
+00007839-2.tif,7839,553.3,Upper 2/3 Choice
+00007840-2.tif,7840,540.0,Upper 2/3 Choice
+00007841-2.tif,7841,703.3,Upper 2/3 Choice
+00007842-2.tif,7842,576.7,Upper 2/3 Choice
+00007843-2.tif,7843,583.3,Upper 2/3 Choice
+00007844-2.tif,7844,563.3,Upper 2/3 Choice
+00007845-2.tif,7845,670.0,Upper 2/3 Choice
+00007846-2.tif,7846,616.7,Upper 2/3 Choice
+00007847-2.tif,7847,566.7,Upper 2/3 Choice
+00007848-2.tif,7848,560.0,Upper 2/3 Choice
+00007850-2.tif,7850,686.7,Upper 2/3 Choice
+00007851-2.tif,7851,450.0,Upper 2/3 Choice
+00007852-2.tif,7852,713.3,Upper 2/3 Choice
+00007853-2.tif,7853,530.0,Upper 2/3 Choice
+00007854-2.tif,7854,736.7,Upper 2/3 Choice
+00007855-2.tif,7855,466.7,Upper 2/3 Choice
+00007856-2.tif,7856,586.7,Upper 2/3 Choice
+00007857-2.tif,7857,536.7,Upper 2/3 Choice
+00007858-2.tif,7858,533.3,Upper 2/3 Choice
+00007859-2.tif,7859,580.0,Upper 2/3 Choice
+00007860-2.tif,7860,423.3,Upper 2/3 Choice
+00007861-2.tif,7861,566.7,Upper 2/3 Choice
+00007862-2.tif,7862,683.3,Upper 2/3 Choice
+00007863-2.tif,7863,573.3,Upper 2/3 Choice
+00007864-2.tif,7864,586.7,Upper 2/3 Choice
+00007865-2.tif,7865,813.3,Upper 2/3 Choice
+00007866-2.tif,7866,740.0,Upper 2/3 Choice
+00007867-2.tif,7867,603.3,Upper 2/3 Choice
+00007868-2.tif,7868,720.0,Upper 2/3 Choice
+00007869-2.tif,7869,483.3,Upper 2/3 Choice
+00007870-2.tif,7870,460.0,Upper 2/3 Choice
+00007871-2.tif,7871,710.0,Upper 2/3 Choice
+00007872-2.tif,7872,623.3,Upper 2/3 Choice
+00007873-2.tif,7873,410.0,Upper 2/3 Choice
+00007874-2.tif,7874,563.3,Upper 2/3 Choice
+00007875-2.tif,7875,496.7,Upper 2/3 Choice
+00007876-2.tif,7876,550.0,Upper 2/3 Choice
+00007877-2.tif,7877,576.7,Upper 2/3 Choice
+00007878-2.tif,7878,773.3,Upper 2/3 Choice
+00007879-2.tif,7879,603.3,Upper 2/3 Choice
+00007880-2.tif,7880,563.3,Upper 2/3 Choice
+00007881-2.tif,7881,770.0,Upper 2/3 Choice
+00007882-2.tif,7882,533.3,Upper 2/3 Choice
+00007883-2.tif,7883,776.7,Upper 2/3 Choice
+00007884-2.tif,7884,743.3,Upper 2/3 Choice
+00007885-2.tif,7885,433.3,Upper 2/3 Choice
+00007886-2.tif,7886,593.3,Upper 2/3 Choice
+00007887-2.tif,7887,660.0,Upper 2/3 Choice
+00007888-2.tif,7888,483.3,Upper 2/3 Choice
+00007889-2.tif,7889,506.7,Upper 2/3 Choice
+00007890-2.tif,7890,583.3,Upper 2/3 Choice
+00007891-2.tif,7891,776.7,Upper 2/3 Choice
+00007893-2.tif,7893,500.0,Upper 2/3 Choice
+00007894-2.tif,7894,780.0,Upper 2/3 Choice
+00007895-2.tif,7895,460.0,Upper 2/3 Choice
+00007896-2.tif,7896,686.7,Upper 2/3 Choice
+00007897-2.tif,7897,546.7,Upper 2/3 Choice
+00007900-2.tif,7900,583.3,Upper 2/3 Choice
+00007901-1.tif,7901,533.3,Upper 2/3 Choice
+00007902-1.tif,7902,466.7,Upper 2/3 Choice
+00007903-1.tif,7903,563.3,Upper 2/3 Choice
+00007904-1.tif,7904,533.3,Upper 2/3 Choice
+00007905-1.tif,7905,683.3,Upper 2/3 Choice
+00007906-1.tif,7906,560.0,Upper 2/3 Choice
+00007907-1.tif,7907,366.7,Upper 2/3 Choice
+00007908-1.tif,7908,566.7,Upper 2/3 Choice
+00007909-1.tif,7909,766.7,Upper 2/3 Choice
+00007910-1.tif,7910,716.7,Upper 2/3 Choice
+00007911-1.tif,7911,516.7,Upper 2/3 Choice
+00007912-1.tif,7912,576.7,Upper 2/3 Choice
+00007913-1.tif,7913,643.3,Upper 2/3 Choice
+00007914-1.tif,7914,580.0,Upper 2/3 Choice
+00007915-1.tif,7915,553.3,Upper 2/3 Choice
+00007916-1.tif,7916,446.7,Upper 2/3 Choice
+00007917-1.tif,7917,520.0,Upper 2/3 Choice
+00007918-1.tif,7918,546.7,Upper 2/3 Choice
+00007919-1.tif,7919,746.7,Upper 2/3 Choice
+00007920-1.tif,7920,460.0,Upper 2/3 Choice
+00007921-1.tif,7921,643.3,Upper 2/3 Choice
+00007922-1.tif,7922,523.3,Upper 2/3 Choice
+00007923-1.tif,7923,623.3,Upper 2/3 Choice
+00007924-1.tif,7924,613.3,Upper 2/3 Choice
+00007925-1.tif,7925,583.3,Upper 2/3 Choice
+00007926-1.tif,7926,626.7,Upper 2/3 Choice
+00007927-1.tif,7927,560.0,Upper 2/3 Choice
+00007928-1.tif,7928,453.3,Upper 2/3 Choice
+00007929-1.tif,7929,466.7,Upper 2/3 Choice
+00007931-1.tif,7931,690.0,Upper 2/3 Choice
+00007932-1.tif,7932,586.7,Upper 2/3 Choice
+00007933-1.tif,7933,806.7,Upper 2/3 Choice
+00007934-1.tif,7934,563.3,Upper 2/3 Choice
+00007935-1.tif,7935,453.3,Upper 2/3 Choice
+00007936-1.tif,7936,556.7,Upper 2/3 Choice
+00007937-1.tif,7937,473.3,Upper 2/3 Choice
+00007938-1.tif,7938,576.7,Upper 2/3 Choice
+00007939-1.tif,7939,380.0,Upper 2/3 Choice
+00007940-1.tif,7940,670.0,Upper 2/3 Choice
+00007941-1.tif,7941,400.0,Upper 2/3 Choice
+00007942-1.tif,7942,460.0,Upper 2/3 Choice
+00007943-1.tif,7943,453.3,Upper 2/3 Choice
+00007944-1.tif,7944,450.0,Upper 2/3 Choice
+00007945-1.tif,7945,723.3,Upper 2/3 Choice
+00007946-1.tif,7946,546.7,Upper 2/3 Choice
+00007947-1.tif,7947,553.3,Upper 2/3 Choice
+00007948-1.tif,7948,766.7,Upper 2/3 Choice
+00007949-1.tif,7949,593.3,Upper 2/3 Choice
+00007950-1.tif,7950,580.0,Upper 2/3 Choice
+00007951-1.tif,7951,480.0,Upper 2/3 Choice
+00007952-1.tif,7952,586.7,Upper 2/3 Choice
+00007953-1.tif,7953,730.0,Upper 2/3 Choice
+00007954-1.tif,7954,733.3,Upper 2/3 Choice
+00007956-1.tif,7956,590.0,Upper 2/3 Choice
+00007957-1.tif,7957,510.0,Upper 2/3 Choice
+00007958-1.tif,7958,546.7,Upper 2/3 Choice
+00007959-1.tif,7959,450.0,Upper 2/3 Choice
+00007960-1.tif,7960,536.7,Upper 2/3 Choice
+00007961-1.tif,7961,500.0,Upper 2/3 Choice
+00007962-1.tif,7962,486.7,Upper 2/3 Choice
+00007963-1.tif,7963,573.3,Upper 2/3 Choice
+00007964-1.tif,7964,626.7,Upper 2/3 Choice
+00007965-1.tif,7965,580.0,Upper 2/3 Choice
+00007966-1.tif,7966,536.7,Upper 2/3 Choice
+00007967-1.tif,7967,650.0,Upper 2/3 Choice
+00007968-1.tif,7968,766.7,Upper 2/3 Choice
+00007969-1.tif,7969,443.3,Upper 2/3 Choice
+00007970-1.tif,7970,473.3,Upper 2/3 Choice
+00007972-1.tif,7972,483.3,Upper 2/3 Choice
+00007973-1.tif,7973,600.0,Upper 2/3 Choice
+00007974-1.tif,7974,546.7,Upper 2/3 Choice
+00007975-1.tif,7975,536.7,Upper 2/3 Choice
+00007976-1.tif,7976,703.3,Upper 2/3 Choice
+00007977-1.tif,7977,546.7,Upper 2/3 Choice
+00007978-1.tif,7978,486.7,Upper 2/3 Choice
+00007979-1.tif,7979,633.3,Upper 2/3 Choice
+00007980-1.tif,7980,620.0,Upper 2/3 Choice
+00007981-1.tif,7981,600.0,Upper 2/3 Choice
+00007982-1.tif,7982,470.0,Upper 2/3 Choice
+00007983-1.tif,7983,726.7,Upper 2/3 Choice
+00007984-1.tif,7984,446.7,Upper 2/3 Choice
+00007985-1.tif,7985,543.3,Upper 2/3 Choice
+00007986-1.tif,7986,550.0,Upper 2/3 Choice
+00007987-1.tif,7987,730.0,Upper 2/3 Choice
+00007988-1.tif,7988,693.3,Upper 2/3 Choice
+00007989-1.tif,7989,466.7,Upper 2/3 Choice
+00007990-1.tif,7990,623.3,Upper 2/3 Choice
+00007992-1.tif,7992,736.7,Upper 2/3 Choice
+00007993-1.tif,7993,516.7,Upper 2/3 Choice
+00007994-1.tif,7994,716.7,Upper 2/3 Choice
+00007996-1.tif,7996,476.7,Upper 2/3 Choice
+00007997-1.tif,7997,486.7,Upper 2/3 Choice
+00007999-1.tif,7999,496.7,Upper 2/3 Choice
+00008000-1.tif,8000,690.0,Upper 2/3 Choice
+00008001-2.tif,8001,463.3,Upper 2/3 Choice
+00008002-2.tif,8002,760.0,Upper 2/3 Choice
+00008003-2.tif,8003,580.0,Upper 2/3 Choice
+00008004-2.tif,8004,483.3,Upper 2/3 Choice
+00008005-2.tif,8005,466.7,Upper 2/3 Choice
+00008006-2.tif,8006,490.0,Upper 2/3 Choice
+00008007-2.tif,8007,583.3,Upper 2/3 Choice
+00008008-2.tif,8008,466.7,Upper 2/3 Choice
+00008009-2.tif,8009,596.7,Upper 2/3 Choice
+00008010-2.tif,8010,453.3,Upper 2/3 Choice
+00008012-2.tif,8012,543.3,Upper 2/3 Choice
+00008013-2.tif,8013,476.7,Upper 2/3 Choice
+00008014-2.tif,8014,686.7,Upper 2/3 Choice
+00008015-2.tif,8015,540.0,Upper 2/3 Choice
+00008016-2.tif,8016,550.0,Upper 2/3 Choice
+00008017-2.tif,8017,466.7,Upper 2/3 Choice
+00008018-2.tif,8018,483.3,Upper 2/3 Choice
+00008019-2.tif,8019,550.0,Upper 2/3 Choice
+00008020-2.tif,8020,563.3,Upper 2/3 Choice
+00008021-2.tif,8021,480.0,Upper 2/3 Choice
+00008022-2.tif,8022,530.0,Upper 2/3 Choice
+00008023-2.tif,8023,516.7,Upper 2/3 Choice
+00008024-2.tif,8024,483.3,Upper 2/3 Choice
+00008025-2.tif,8025,343.3,Upper 2/3 Choice
+00008026-2.tif,8026,560.0,Upper 2/3 Choice
+00008027-2.tif,8027,623.3,Upper 2/3 Choice
+00008028-2.tif,8028,723.3,Upper 2/3 Choice
+00008029-2.tif,8029,526.7,Upper 2/3 Choice
+00008030-2.tif,8030,603.3,Upper 2/3 Choice
+00008031-2.tif,8031,536.7,Upper 2/3 Choice
+00008032-2.tif,8032,503.3,Upper 2/3 Choice
+00008033-2.tif,8033,560.0,Upper 2/3 Choice
+00008034-2.tif,8034,696.7,Upper 2/3 Choice
+00008035-2.tif,8035,486.7,Upper 2/3 Choice
+00008036-2.tif,8036,476.7,Upper 2/3 Choice
+00008037-2.tif,8037,453.3,Upper 2/3 Choice
+00008040-2.tif,8040,523.3,Upper 2/3 Choice
+00008041-2.tif,8041,520.0,Upper 2/3 Choice
+00008042-2.tif,8042,470.0,Upper 2/3 Choice
+00008043-2.tif,8043,570.0,Upper 2/3 Choice
+00008044-2.tif,8044,586.7,Upper 2/3 Choice
+00008045-2.tif,8045,586.7,Upper 2/3 Choice
+00008046-2.tif,8046,480.0,Upper 2/3 Choice
+00008047-2.tif,8047,380.0,Upper 2/3 Choice
+00008048-2.tif,8048,503.3,Upper 2/3 Choice
+00008049-2.tif,8049,470.0,Upper 2/3 Choice
+00008050-2.tif,8050,503.3,Upper 2/3 Choice
+00008051-2.tif,8051,416.7,Upper 2/3 Choice
+00008052-2.tif,8052,546.7,Upper 2/3 Choice
+00008053-2.tif,8053,453.3,Upper 2/3 Choice
+00008054-2.tif,8054,620.0,Upper 2/3 Choice
+00008055-2.tif,8055,376.7,Upper 2/3 Choice
+00008056-2.tif,8056,546.7,Upper 2/3 Choice
+00008057-2.tif,8057,483.3,Upper 2/3 Choice
+00008058-2.tif,8058,460.0,Upper 2/3 Choice
+00008059-2.tif,8059,616.7,Upper 2/3 Choice
+00008060-2.tif,8060,596.7,Upper 2/3 Choice
+00008061-2.tif,8061,430.0,Upper 2/3 Choice
+00008062-2.tif,8062,446.7,Upper 2/3 Choice
+00008063-2.tif,8063,543.3,Upper 2/3 Choice
+00008064-2.tif,8064,470.0,Upper 2/3 Choice
+00008065-2.tif,8065,543.3,Upper 2/3 Choice
+00008067-2.tif,8067,483.3,Upper 2/3 Choice
+00008068-2.tif,8068,570.0,Upper 2/3 Choice
+00008069-2.tif,8069,456.7,Upper 2/3 Choice
+00008070-2.tif,8070,566.7,Upper 2/3 Choice
+00008072-2.tif,8072,440.0,Upper 2/3 Choice
+00008073-2.tif,8073,630.0,Upper 2/3 Choice
+00008074-2.tif,8074,583.3,Upper 2/3 Choice
+00008075-2.tif,8075,586.7,Upper 2/3 Choice
+00008076-2.tif,8076,456.7,Upper 2/3 Choice
+00008078-2.tif,8078,443.3,Upper 2/3 Choice
+00008079-2.tif,8079,683.3,Upper 2/3 Choice
+00008080-2.tif,8080,463.3,Upper 2/3 Choice
+00008081-2.tif,8081,616.7,Upper 2/3 Choice
+00008082-2.tif,8082,483.3,Upper 2/3 Choice
+00008083-2.tif,8083,456.7,Upper 2/3 Choice
+00008084-2.tif,8084,566.7,Upper 2/3 Choice
+00008085-2.tif,8085,440.0,Upper 2/3 Choice
+00008086-2.tif,8086,500.0,Upper 2/3 Choice
+00008087-2.tif,8087,556.7,Upper 2/3 Choice
+00008088-2.tif,8088,460.0,Upper 2/3 Choice
+00008089-2.tif,8089,473.3,Upper 2/3 Choice
+00008090-2.tif,8090,583.3,Upper 2/3 Choice
+00008091-2.tif,8091,446.7,Upper 2/3 Choice
+00008092-2.tif,8092,453.3,Upper 2/3 Choice
+00008093-2.tif,8093,456.7,Upper 2/3 Choice
+00008094-2.tif,8094,533.3,Upper 2/3 Choice
+00008095-2.tif,8095,566.7,Upper 2/3 Choice
+00008096-2.tif,8096,546.7,Upper 2/3 Choice
+00008098-2.tif,8098,476.7,Upper 2/3 Choice
+00008099-2.tif,8099,430.0,Upper 2/3 Choice
+00008100-2.tif,8100,370.0,Upper 2/3 Choice
+00008101-1.tif,8101,463.3,Upper 2/3 Choice
+00008102-1.tif,8102,380.0,Upper 2/3 Choice
+00008103-1.tif,8103,566.7,Upper 2/3 Choice
+00008104-1.tif,8104,670.0,Upper 2/3 Choice
+00008105-1.tif,8105,346.7,Upper 2/3 Choice
+00008106-1.tif,8106,380.0,Upper 2/3 Choice
+00008107-1.tif,8107,483.3,Upper 2/3 Choice
+00008108-1.tif,8108,633.3,Upper 2/3 Choice
+00008109-1.tif,8109,613.3,Upper 2/3 Choice
+00008110-1.tif,8110,486.7,Upper 2/3 Choice
+00008111-1.tif,8111,490.0,Upper 2/3 Choice
+00008112-1.tif,8112,750.0,Upper 2/3 Choice
+00008113-1.tif,8113,523.3,Upper 2/3 Choice
+00008114-1.tif,8114,526.7,Upper 2/3 Choice
+00008115-1.tif,8115,460.0,Upper 2/3 Choice
+00008116-1.tif,8116,620.0,Upper 2/3 Choice
+00008117-1.tif,8117,480.0,Upper 2/3 Choice
+00008118-1.tif,8118,576.7,Upper 2/3 Choice
+00008120-1.tif,8120,476.7,Upper 2/3 Choice
+00008121-1.tif,8121,476.7,Upper 2/3 Choice
+00008122-1.tif,8122,526.7,Prime
+00008123-1.tif,8123,463.3,Prime
+00008124-1.tif,8124,583.3,Prime
+00008125-1.tif,8125,540.0,Prime
+00008126-1.tif,8126,470.0,Prime
+00008127-1.tif,8127,463.3,Prime
+00008128-1.tif,8128,453.3,Prime
+00008129-1.tif,8129,693.3,Prime
+00008130-1.tif,8130,510.0,Prime
+00008131-1.tif,8131,463.3,Prime
+00008132-1.tif,8132,636.7,Prime
+00008133-1.tif,8133,666.7,Prime
+00008134-1.tif,8134,536.7,Prime
+00008135-1.tif,8135,416.7,Prime
+00008136-1.tif,8136,573.3,Prime
+00008137-1.tif,8137,596.7,Prime
+00008138-1.tif,8138,483.3,Prime
+00008139-1.tif,8139,456.7,Prime
+00008140-1.tif,8140,493.3,Prime
+00008141-1.tif,8141,506.7,Prime
+00008142-1.tif,8142,526.7,Prime
+00008143-1.tif,8143,483.3,Prime
+00008144-1.tif,8144,473.3,Prime
+00008145-1.tif,8145,453.3,Prime
+00008146-1.tif,8146,600.0,Prime
+00008147-1.tif,8147,366.7,Prime
+00008148-1.tif,8148,536.7,Prime
+00008149-1.tif,8149,593.3,Prime
+00008150-1.tif,8150,620.0,Prime
+00008151-1.tif,8151,586.7,Prime
+00008152-1.tif,8152,660.0,Prime
+00008153-1.tif,8153,543.3,Prime
+00008154-1.tif,8154,453.3,Prime
+00008155-1.tif,8155,583.3,Prime
+00008156-1.tif,8156,473.3,Prime
+00008157-1.tif,8157,450.0,Prime
+00008158-1.tif,8158,543.3,Prime
+00008159-1.tif,8159,600.0,Prime
+00008160-1.tif,8160,473.3,Prime
+00008161-1.tif,8161,490.0,Prime
+00008162-1.tif,8162,486.7,Prime
+00008163-1.tif,8163,520.0,Prime
+00008164-1.tif,8164,473.3,Prime
+00008165-1.tif,8165,416.7,Prime
+00008166-1.tif,8166,590.0,Prime
+00008167-1.tif,8167,460.0,Prime
+00008168-1.tif,8168,486.7,Prime
+00008169-1.tif,8169,486.7,Prime
+00008170-1.tif,8170,570.0,Prime
+00008171-1.tif,8171,576.7,Prime
+00008172-1.tif,8172,596.7,Prime
+00008173-1.tif,8173,456.7,Prime
+00008174-1.tif,8174,750.0,Prime
+00008175-1.tif,8175,460.0,Prime
+00008176-1.tif,8176,493.3,Prime
+00008177-1.tif,8177,460.0,Prime
+00008178-1.tif,8178,563.3,Prime
+00008179-1.tif,8179,786.7,Prime
+00008180-1.tif,8180,480.0,Prime
+00008181-1.tif,8181,440.0,Prime
+00008182-1.tif,8182,590.0,Prime
+00008183-1.tif,8183,516.7,Prime
+00008184-1.tif,8184,473.3,Prime
+00008185-1.tif,8185,490.0,Prime
+00008186-1.tif,8186,600.0,Prime
+00008187-1.tif,8187,496.7,Prime
+00008188-1.tif,8188,480.0,Prime
+00008189-1.tif,8189,390.0,Prime
+00008190-1.tif,8190,573.3,Prime
+00008191-1.tif,8191,543.3,Prime
+00008192-1.tif,8192,483.3,Prime
+00008193-1.tif,8193,586.7,Prime
+00008194-1.tif,8194,566.7,Prime
+00008195-1.tif,8195,563.3,Prime
+00008196-1.tif,8196,440.0,Prime
+00008197-1.tif,8197,476.7,Prime
+00008198-1.tif,8198,533.3,Prime
+00008199-1.tif,8199,586.7,Prime
+00008200-1.tif,8200,676.7,Prime
