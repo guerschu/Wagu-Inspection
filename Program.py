@@ -16,8 +16,8 @@ data = pandas.read_csv('Data.csv')
 RibeyeMeasurements = data["Ribeye"]
 fatThickness = data.FatThickness
 
-x = torch.load('TrainImages/00001273-2.tif')
-y = torch.load('TrainImages/00001273-2.tif')
+x = torch.load('TrainImages')
+y = torch.load('TrainImages')
 class CTDataset(Dataset):
     # def init(self, filepath):
     #     self.x, self.y = torch.load(filepath)
@@ -28,7 +28,7 @@ class CTDataset(Dataset):
     #     self.y = F.one_hot(self.y, num_classes=10).to(torch.float32)  # Convert y to one-hot and float32
 
         # Directory containing the TIFF images
-    def init(self, filepath):
+    def __init__(self, filepath):
 
         tif_dir = filepath
 
@@ -57,7 +57,7 @@ class CTDataset(Dataset):
 
 train_ds = CTDataset('TrainImages')
 
-test_ds = CTDataset('TrainImages')
+test_ds = CTDataset('TestImages')
 
 transform = transforms.Compose([
     transforms.Grayscale(),
