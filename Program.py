@@ -61,3 +61,8 @@ train_ds = CTDataset('TrainImages')
 
 test_ds = CTDataset('TrainImages')
 
+transform = transforms.Compose([
+    transforms.Grayscale(),
+    transforms.ToTensor(),           # Convert to PyTorch tensor
+    # Add more transformations as needed
+])
