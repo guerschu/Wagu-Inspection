@@ -15,3 +15,5 @@ RibeyeMeasurements = data.Ribeye
 
 fatThickness = data.FatThickness
 
+print(Rib)
+
